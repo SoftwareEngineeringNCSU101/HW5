@@ -1,8 +1,7 @@
-# HW5
+## HW5
 HW5 Repository for SE
 
-Repository for SE homework 5
+This repository mainly focuses on executing different git commands and displaying the team information.
 
-This repository mainly focuses on executing different git commands.
-
+#WebPage Snapshot
 ![WebPage Snapshot](WebPage_Snapshot.jpg)
